@@ -20,7 +20,7 @@ public class JavaHomeWork4 {
         long timeLinked_task2 = endLinked_task2 - startLinked_task2;
         System.out.println("Time of task2 for LinkedList: " + timeLinked_task2);
         // Задача 3.
-        // List <Integer> work_list2 = change(work_list);
+        //LinkedList <Integer> work_list2 = change(work_list);
         // Задача 4.
         long startLinked_task4 = System.currentTimeMillis();
         work_list = change_all(work_list);
