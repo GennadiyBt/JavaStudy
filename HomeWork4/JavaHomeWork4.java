@@ -52,7 +52,6 @@ public class JavaHomeWork4 {
 
         work_list = random_list(work_list);
         long startLinked_task2_opt = System.currentTimeMillis();
-        //LinkedList <Integer> work_list1_opt = new LinkedList<>();
         work_list1 = del_negative_opt(work_list);
         long endLinked_task2_opt = System.currentTimeMillis();
         long timeLinked_task2_opt = endLinked_task2_opt - startLinked_task2_opt;
