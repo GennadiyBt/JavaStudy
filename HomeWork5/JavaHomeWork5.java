@@ -1,8 +1,7 @@
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-import java.util.function.BiConsumer;
-import java.util.function.Function;
+
 
 public class JavaHomeWork5 {
     public static void main(String[] args) {
